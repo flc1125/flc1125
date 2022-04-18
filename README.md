@@ -3,20 +3,11 @@
 **心之所向，素履以往，生如逆旅，一苇以航。🌈**
 
 https://flc.io
-
-<!--
-**flc1125/flc1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flc1125&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flc1125&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flc1125&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flc1125&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flc1125&theme=github)
 
 </div>
