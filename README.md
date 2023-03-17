@@ -1,11 +1,6 @@
-<div align="center">
-
 **心之所向，素履以往，生如逆旅，一苇以航。🌈**
 
 https://flc.io
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flc1125&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flc1125&theme=github)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flc1125&theme=github) -->
-
-</div>
+![Flc゛'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=flc1125&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flc1125&theme=vue-dark&hide_border=true)
