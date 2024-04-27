@@ -1,7 +1,7 @@
 👋 Hey there!
 
 ```
-Do things that affect others.
+Do things that influence others.
 ```
 
 🌟 Achievements
