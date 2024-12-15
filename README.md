@@ -15,6 +15,7 @@ Do things that influence others.
 
 ![](https://github-profile-trophy.vercel.app/?username=flc1125&column=4&row=2&margin-w=20&margin-h=10)
 
+<!--
 🎉 OSS
 
 [![go-kratos-ecosystem/components](https://github-readme-stats.vercel.app/api/pin/?username=go-kratos-ecosystem&repo=components&show_owner=true&description_lines_count=2)](https://github.com/go-kratos-ecosystem/components)
@@ -31,6 +32,7 @@ Do things that influence others.
 [![flc1125/ApiServer](https://github-readme-stats.vercel.app/api/pin/?username=flc1125&repo=ApiServer&description_lines_count=2)](https://github.com/flc1125/ApiServer)
 [![flc1125/dysms](https://github-readme-stats.vercel.app/api/pin/?username=flc1125&repo=dysms&description_lines_count=2)](https://github.com/flc1125/dysms)
 [![flc1125/protobuf-template](https://github-readme-stats.vercel.app/api/pin/?username=flc1125&repo=protobuf-template&description_lines_count=2)](https://github.com/flc1125/protobuf-template)
+-->
 
 🚀 Links
 
