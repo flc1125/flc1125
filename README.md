@@ -13,7 +13,7 @@ Do things that can influence others.
   </tr>
 </table>
 
-![](https://github-profile-trophy.vercel.app/?username=flc1125&column=4&row=2&margin-w=20&margin-h=10)
+![](https://github-profile-trophy.vercel.app/?username=flc1125&column=4&row=2&margin-w=20&margin-h=10&v=1)
 
 <!--
 🎉 OSS
