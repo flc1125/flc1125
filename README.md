@@ -39,6 +39,6 @@ Do things that can influence others.
 - Blog: https://flc.io
 - Docs: https://docs.flc.io
 
-🧪 Labs
+💡 Labs
 
 [![flc1125/fil.flc.io](https://github-readme-stats.vercel.app/api/pin/?username=flc1125&repo=fil.flc.io&description_lines_count=2)](https://github.com/flc1125/fil.flc.io)
