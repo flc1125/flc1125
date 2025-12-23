@@ -34,6 +34,10 @@ Do things that can influence others.
 [![flc1125/protobuf-template](https://github-readme-stats.vercel.app/api/pin/?username=flc1125&repo=protobuf-template&description_lines_count=2)](https://github.com/flc1125/protobuf-template)
 -->
 
+💡 Labs
+
+[![flc1125/fil.flc.io](https://github-readme-stats.vercel.app/api/pin/?username=flc1125&repo=fil.flc.io&description_lines_count=2)](https://github.com/flc1125/fil.flc.io)
+
 🚀 Links
 
 - Blog: https://flc.io
