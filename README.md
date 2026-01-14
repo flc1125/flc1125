@@ -1,8 +1,14 @@
 👋 Hey there!
 
+I'm **FLC** — an engineer who does a bit of everything, and an open-source contributor.
+
 ```
 Do things that can influence others.
 ```
+
+- Focused on Go, AI, architecture, and developer tooling  
+- OpenTelemetry Go SIG Approver  
+- Interested in AI, observability, performance, and scalable systems
 
 🌟 Achievements
 
