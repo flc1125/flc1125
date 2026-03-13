@@ -42,6 +42,7 @@ Do things that can influence others.
 
 💡 Labs
 
+[![flc1125/skills](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=skills&description_lines_count=2)](https://github.com/flc1125/skills)
 [![flc1125/fil.flc.io](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=fil.flc.io&description_lines_count=2)](https://github.com/flc1125/fil.flc.io)
 [![flc1125/nav.flc.io](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=nav.flc.io&description_lines_count=2)](https://github.com/flc1125/nav.flc.io)
 
