@@ -24,7 +24,7 @@ Do things that can influence others.
 
 🎉 OSS
 
-[![flc1125/flc1125/go-gitlab-webhook](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=flc1125/go-gitlab-webhook&description_lines_count=2)](https://github.com/flc1125/flc1125/go-gitlab-webhook)
+[![flc1125/go-gitlab-webhook](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=go-gitlab-webhook&description_lines_count=2)](https://github.com/flc1125/go-gitlab-webhook)
 
 💡 Labs
 
