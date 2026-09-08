@@ -35,4 +35,5 @@ Do things that can influence others.
 
 - Blog: https://flc.io
 - Skills: https://skills.flc.io
+- Mote: https://mote.flc.io
 - Docs: https://docs.flc.io
