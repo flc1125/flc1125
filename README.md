@@ -19,17 +19,17 @@ Do things that can influence others.
   </tr>
 </table>
 
-![](https://github-profile-trophy.vercel.app/?username=flc1125&column=4&row=2&margin-w=20&margin-h=10&v=1)
-
-
 🎉 OSS
 
 [![flc1125/go-gitlab-webhook](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=go-gitlab-webhook&description_lines_count=2)](https://github.com/flc1125/go-gitlab-webhook)
 
+<!--
 💡 Labs
 
 [![flc1125/fil.flc.io](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=fil.flc.io&description_lines_count=2)](https://github.com/flc1125/fil.flc.io)
 [![flc1125/nav.flc.io](https://github-readme-stats.flc.io/api/pin/?username=flc1125&repo=nav.flc.io&description_lines_count=2)](https://github.com/flc1125/nav.flc.io)
+
+-->
 
 🚀 Links
 
